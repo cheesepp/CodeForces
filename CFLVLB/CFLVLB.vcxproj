@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f319d34e-add0-47e2-ae9c-3970e7dcef26}</ProjectGuid>
-    <RootNamespace>Problemset</RootNamespace>
+    <ProjectGuid>{bd7bfa75-b704-4aeb-b7fa-0177b30b2235}</ProjectGuid>
+    <RootNamespace>CFLVLB</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>CFLVL A</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,59 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
-    <ClCompile Include="A. Helpful Maths.cpp" />
-    <ClCompile Include="A. Word Capitalization.cpp" />
-    <ClCompile Include="A. Bear and Big Brother.cpp" />
-    <ClCompile Include="A. Soldier and Bananas.cpp" />
-    <ClCompile Include="A. Elephant.cpp" />
-    <ClCompile Include="A. Word.cpp" />
-    <ClCompile Include="A. Wrong Subtraction.cpp" />
-    <ClCompile Include="A. Tram.cpp" />
-    <ClCompile Include="A. Translation.cpp" />
-    <ClCompile Include="A. Anton and Danik.cpp" />
-    <ClCompile Include="A. Beautiful Year.cpp" />
-    <ClCompile Include="A. George and Accommodation.cpp" />
-    <ClCompile Include="A. Presents.cpp" />
-    <ClCompile Include="A. Magnets.cpp" />
-    <ClCompile Include="A. In Search of an Easy Problem.cpp" />
-    <ClCompile Include="A. Ultra-Fast Mathematician.cpp" />
-    <ClCompile Include="A. Hulk.cpp" />
-    <ClCompile Include="A. Is your horseshoe on the other hoof.cpp" />
-    <ClCompile Include="A. I Wanna Be the Guy.cpp" />
-    <ClCompile Include="A. Insomnia cure.cpp" />
-    <ClCompile Include="A. Arrival of the General.cpp" />
-    <ClCompile Include="A. Divisibility Problem.cpp" />
-    <ClCompile Include="A. Boy or Girl.cpp" />
-    <ClCompile Include="A. Nearly Lucky Number.cpp" />
-    <ClCompile Include="Source1.cpp" />
-    <ClCompile Include="A. Games.cpp" />
-    <ClCompile Include="A. Hit the Lottery.cpp" />
-    <ClCompile Include="A. Anton and Polyhedrons.cpp" />
-    <ClCompile Include="A. Fox And Snake.cpp" />
-    <ClCompile Include="A. I_love_username.cpp" />
-    <ClCompile Include="A. New Year and Hurry.cpp" />
-    <ClCompile Include="A. Vasya the Hipster.cpp" />
-    <ClCompile Include="A. Police Recruits.cpp" />
-    <ClCompile Include="Source2.cpp" />
-    <ClCompile Include="A. Restoring Three Numbers.cpp" />
-    <ClCompile Include="A. Sum of Round Numbers.cpp" />
-    <ClCompile Include="Source3.cpp" />
-    <ClCompile Include="A. Short Substrings.cpp" />
-    <ClCompile Include="A. The New Year Meeting Friends.cpp" />
-    <ClCompile Include="A. Holiday Of Equality.cpp" />
-    <ClCompile Include="A. Mishka and Game.cpp" />
-    <ClCompile Include="A. Spy Detected!.cpp" />
-    <ClCompile Include="A. Buy a Shovel.cpp" />
-    <ClCompile Include="A. Domino piling.cpp" />
-    <ClCompile Include="A. Minimal Square.cpp" />
-    <ClCompile Include="Source4.cpp" />
-    <ClCompile Include="A. Learn from Math.cpp" />
-    <ClCompile Include="A. Yet Another Two Integers Problem.cpp" />
-    <ClCompile Include="A. %28uncom%29Candies and Two Sisters.cpp" />
-    <ClCompile Include="A. Remove Smallest.cpp" />
-    <ClCompile Include="A. Required Remainder.cpp" />
-    <ClCompile Include="Source5.cpp" />
+    <ClCompile Include="B. Queue at the School.cpp" />
+    <ClCompile Include="B. Two Arrays And Swaps.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
